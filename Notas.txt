@@ -6,3 +6,5 @@ getOne ruta:'/libro'
 Agregar ruta: '/add-libro'
 Eliminar libro con ISBN ruta:'/delete-libro'
 Actualizar ruta:'/update-libro'
+
+Tambien adjunte las pruebas hechas con POSTMAN: Pruebas postman.json
