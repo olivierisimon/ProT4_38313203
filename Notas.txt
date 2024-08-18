@@ -1,0 +1,8 @@
+La base de datos esta en la carpeta base de datos con el nombre rest-api.sql
+
+RUTAS
+getAll ruta: '/libros'
+getOne ruta:'/libro'
+Agregar ruta: '/add-libro'
+Eliminar libro con ISBN ruta:'/delete-libro'
+Actualizar ruta:'/update-libro'
